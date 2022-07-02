@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is message from Dat for testing conflicts (abc)
+=======
+This is message from Dat (123)
+>>>>>>> cfba9b79bc180c1ab4d676e13b6842d91e1de9a5
